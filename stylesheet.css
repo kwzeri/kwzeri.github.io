@@ -1,8 +1,13 @@
+@media(max-width:670px){
 h1{
-  width:600px;
-  height:300px;
-  
+  width:80%;
+  height:30%;
+  font-weight:bold;
+  padding-line:10px;
   }
+a{
+  
 p1{
   width:50%;
   }
+ }
