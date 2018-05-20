@@ -1,2 +1,13 @@
-
+@media(max-width:750px){
+	.on{
+		width:70%;
+		text-align:center;
+		padding:30px;
+	}
+	.center{
+		width:50%;
+		
+	}
+	
+}
 
