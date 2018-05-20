@@ -1,11 +1,9 @@
-h1{
-  width:80%;
-  height:30%;
-  font-weight:bold;
-  padding:40px;
-  rgba:20px;
-  }
-p1{
-  width:50%;
-  }
- 
+.on{
+	font-size:300px;
+	padding:20px;
+	margin:30px;
+	}
+.center li{
+	font-size:100px;
+	margin:5px;
+	}
