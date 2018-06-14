@@ -1,1 +1,1 @@
-$('h1').fadeIn('slow');
+$('h1').show('slow');
