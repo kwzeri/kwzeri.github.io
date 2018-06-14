@@ -1,1 +1,1 @@
-$('h1').slideUp();
+$('.on').slideUp(1500);
