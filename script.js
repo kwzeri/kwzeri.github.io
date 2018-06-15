@@ -1,1 +1,1 @@
-$('h1').show('slow');
+$('').show('slow');
