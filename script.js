@@ -1,1 +1,1 @@
-$('').show('slow');
+$('.on').show('slow');
