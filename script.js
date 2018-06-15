@@ -1,1 +1,3 @@
-$('.on').slideDown('slow');
+$function(){
+  $('.on').slideDown('slow');
+});
