@@ -1,3 +1,3 @@
 jQuery($function(){
-  $('.on').slideDown('slow');
+  $('.on').slideUp('slow');
 });
