@@ -1,3 +1,3 @@
-jQuery($function(){
-  $('.on').slideUp('slow');
+＄(function(){
+  $('.on').fadeOut(1500);
 });
