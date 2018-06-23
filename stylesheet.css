@@ -7,18 +7,19 @@
 		display:none;
 		
 	}
+	
+	
+	.center{
+		border-top:2px solid #333;
+		
+		
+		
+	}
+	
 	.center li{
 		width:50%;
 		padding:15px;
-		border-bottom:2px solid #333;
 	}
 	
-	.first {
-		border-bottom:2px solid #333;
-		
-		
-		
-	}
-		
 	
 }
