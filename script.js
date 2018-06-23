@@ -1,7 +1,6 @@
   $(function(){
   $('h1').fadeIn(3600);
 
-  // FAQのアコーディオン
     $('.faq-list-item').click(function() {
     var $answer = $(this).find('.answer');
     if($answer.hasClass('open')) {
