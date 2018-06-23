@@ -10,7 +10,7 @@
       $answer.fadeIn(500);
       
       // 子要素のspanタグの中身をtextメソッドを用いて書き換えてください
-      $(this).find('span').transform:rorate(-90deg);
+      $(this).find('span').transform:rotate(-90deg);
       
     } else {
       $answer.addClass('open'); 
@@ -18,7 +18,7 @@
       $answer.fadeOut(1500);
       
       // 子要素のspanタグの中身をtextメソッドを用いて書き換えてください
-      $(this).find('span').transform:rorate(90deg);
+      $(this).find('span').transform:rotate(90deg);
     }
   });
   
