@@ -18,7 +18,7 @@
       $answer.fadeOut(1500);
       
       // 子要素のspanタグの中身をtextメソッドを用いて書き換えてください
-      $(this).find('span').transform:rorate(90deg);;
+      $(this).find('span').transform:rorate(90deg);
     }
   });
   
