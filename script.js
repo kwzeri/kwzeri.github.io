@@ -6,12 +6,12 @@
     if($answer.hasClass('open')) {
       $answer.removeClass('open');
       // slideUpメソッドを用いて、$answerを隠してください
-      $answer.fadeIn(500);
+      $answer.fadeIn(1500);
       
     } else {
       $answer.addClass('open'); 
       // slideDownメソッドを用いて、$answerを表示してください
-      $answer.fadeOut(1500);
+      $answer.fadeOut(500);
     }
   });
   
