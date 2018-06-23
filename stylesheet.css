@@ -2,10 +2,10 @@
 	.on{
 		width:70%;
 		height:100%;
-		padding:30px;
+		padding:0px 30px 30px 30px;
 		background-image: url(IMG_5160.jpg);
 		background-size:100%;
-		margin:15px;
+		margin:15px 15px 15px 15px;
 		display:block;
 	}
 	.on h1{
@@ -20,7 +20,7 @@
 		border-top:2px solid #333;	
 		
 	faq-list-item {
-  		margin:10px;
+  		 margin:1opx;
  		 border-bottom:1px solid #ccc;
  		 position:relative;
  		 cursor:pointer;
@@ -29,6 +29,7 @@
 
 .faq-list-item h3 {
   		font-size: 7px;
+	
 	}
 
 .answer {
