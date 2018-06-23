@@ -10,7 +10,8 @@
 	}
 	.on h1{
 		font-weight:bold;
-		color:white;
+		color:#fff;
+		font-size:30px;
 		display:none;
 		
 	}
