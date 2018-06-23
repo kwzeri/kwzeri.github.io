@@ -31,6 +31,12 @@
   		font-size: 7px;
 	}
 
+.answer {
+  		font-size: 5px;
+  		display:none;
+  		padding: 5px 0px;
+  		margin-bottom: 5px;
+	}
 
 	
 }
