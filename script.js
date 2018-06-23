@@ -7,7 +7,7 @@
     if($answer.hasClass('open')) {
       $answer.removeClass('open');
       // slideUpメソッドを用いて、$answerを隠してください
-      $answer.fadeIn(1500);
+      $answer.fadeIn(500);
       
       // 子要素のspanタグの中身をtextメソッドを用いて書き換えてください
       $(this).find('span').text('+');
