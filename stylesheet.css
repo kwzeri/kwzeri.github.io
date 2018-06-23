@@ -3,10 +3,10 @@
 		width:70%;
 		text-align:center;
 		padding:30px;
-		
 		background-image: url(IMG_5160.jpg);
 		background-size:100%;
 		margin:15px;
+		display:block;
 	}
 	.on h1{
 		font-weight:bold;
