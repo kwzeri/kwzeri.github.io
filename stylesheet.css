@@ -9,7 +9,7 @@
 		height:100%;
 		padding:10px 30px 50px 30px;
 		background-image: url(wallpaper-dual-cool-06.jpg);
-		background-size:50%;
+		background-size:70%;
 		margin:15px 15px 15px 15px;
 		display:block;
 	}
@@ -48,44 +48,34 @@
 }
 	
 
-	
-	
-.stamps-section {
-  text-align: center;
-  padding-bottom: 10px;
-}
+/*-------*/	
 
-#stamps > .container {
-  width: 70%;
-}
 
-.stamp-box {
+.photo-box {
   width: 100%;
   margin: 0 auto;
   margin-bottom: 80px;
 }
 
-.stamp-image {
+.photo-image {
   width: 70%;
   height: 30%;
   margin: 10px 0;
   padding: 0px;
 }
 
-#stamp-carousel img {
+#photo-carousel img {
   display: inline-block;
 }
 
-#stamp-carousel li {
+#photo-carousel li {
   background-color: #869791;
 }
 .carousel-indicators {
   z-index: 5;
 }
 
-.stamp-link {
-  color: #5983ff;
-}
+
 
 	
 	
