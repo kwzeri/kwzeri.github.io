@@ -52,11 +52,11 @@
 	
 .stamps-section {
   text-align: center;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
 }
 
 #stamps > .container {
-  width: 936px;
+  width: 70%;
 }
 
 .stamp-box {
@@ -66,8 +66,8 @@
 }
 
 .stamp-image {
-  width: 200px;
-  height: 200px;
+  width: 70%;
+  height: 30%;
   margin: 10px 0;
   padding: 0px;
 }
