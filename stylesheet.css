@@ -1,54 +1,9 @@
-	.all{
-		background-color:gray;
-		color:white;
-		}
-
-
-	.on{
-		width:70%;
-		height:100%;
-		padding:10px 30px 50px 30px;
-		background-image: url(IMG_5160.jpg);
-		background-size:100%;
-		margin:15px 15px 15px 15px;
-		display:block;
-	}
-	.on h1{
-		font-weight:bold;
-		color:#fff;
-		display:none;
-		padding-bottom:15px;
-	}
-	
-	
-	.center{
-		border-top:2px solid #333;	
-		
-	faq-list-item {
-  		 margin:1opx;
- 		 border-bottom:1px solid #ccc;
- 		 position:relative;
- 		 cursor:pointer;
- 		 text-align: left;
-	}
-
-.faq-list-item h3 {
-  		font-size: 7px;
-	
-	}
-
-.answer {
-		display:none;
-  		font-size: 5px;
-  		padding: 5px 0px;
-  		margin-bottom: 5px;
-	}
-
-
-
-
 
 @media(max-width:750px){
+	.all{
+	}
+	
+	
 	.on{
 		width:70%;
 		height:100%;
@@ -91,3 +46,49 @@
 
 	
 }
+	
+
+	
+	
+.stamps-section {
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+#stamps > .container {
+  width: 936px;
+}
+
+.stamp-box {
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+
+.stamp-image {
+  width: 200px;
+  height: 200px;
+  margin: 10px 0;
+  padding: 0px;
+}
+
+#stamp-carousel img {
+  display: inline-block;
+}
+
+#stamp-carousel li {
+  background-color: #869791;
+}
+.carousel-indicators {
+  z-index: 5;
+}
+
+.stamp-link {
+  color: #5983ff;
+}
+
+	
+	
+	
+	
+	
