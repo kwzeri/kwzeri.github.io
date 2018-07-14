@@ -1,6 +1,8 @@
 
 @media(max-width:750px){
-	.all{
+	body{
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
 	}
 	
 	
