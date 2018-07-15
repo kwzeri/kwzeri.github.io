@@ -49,36 +49,25 @@
 
 		
 	/*-------*/	
-
-
-.photo-box {
-  width: 80%;
-  margin: 0 auto;
-  margin-bottom: 30px;
+#photoshow {
+   position: relative;
+   width:  80%px; 
+   height: 150px; 
 }
-
-.photo-image {
-  width: 70%;
-  height: 30%;
-  margin: 10px 0;
-  padding: 0px;
+#photoshow img {
+   position: absolute;
+   top: 0;
+   left:0;
+   z-index: 8;
+   opacity: 0.0;
 }
-
-#photo-carousel img {
-  display: inline-block;
+#photoshow img.active {
+   z-index: 10;
+   opacity: 1.0;
 }
-
-#photo-carousel li {
-  background-color: #869791;
+#photoshow img.last-active {
+   z-index: 9;
 }
-.carousel-indicators {
-  z-index: 5;
-}
-
-
-
-		
-		
 	
 }
 	
