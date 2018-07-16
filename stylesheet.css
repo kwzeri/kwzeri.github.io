@@ -62,9 +62,10 @@
 		text-align:center;
 	}
 	
-		
+	faq ul{
+		list-style:none;
 	faq-list-item {
-  		 margin:1opx;
+  		 margin:10px;
  		 position:relative;
  		 text-align: left;
 	}
