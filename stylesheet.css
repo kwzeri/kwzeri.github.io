@@ -6,7 +6,9 @@
 	}
 	/*-header-*/
 	header{
-		font-weght:nomal;
+		  height: 65px;
+ 		 width: 100%;
+		  background-color: rgba(34, 49, 52, 0.9);
 	}
 	
 	.header-left{
@@ -15,7 +17,7 @@
 
 	
 	.header-left h1{
-		font-weight
+		font-weight: bold;
 	}
 	.header-right {
 		  float: right;
