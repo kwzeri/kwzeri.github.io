@@ -1,25 +1,8 @@
   $(function(){
 	  
+
 	  
-	  
-	$('#photoshow').infiniteslide({
-		'height': 400;// 高さを指定
-		'speed': 30;		// スピードを指定
-		'direction' : 'left';	// スライドする向きを指定
-		'pauseonhover': false;// マウスオーバーでストップするかを指定
-	});  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
+	    
 	  
   $('h1').fadeIn(3600);
 
