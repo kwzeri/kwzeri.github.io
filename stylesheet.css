@@ -68,7 +68,7 @@
 	my-wrapper h1{
 		width:80%;
 		top:70px;
-		background-image: url(wallpaper-dual-cool-06.jpg);
+		background-image: url();
 		background-size:70%;
 		display:block;
 		font-weight:bold;
@@ -77,16 +77,16 @@
 		text-align:center;
 	}
 	
-	faq ul{
+	.faq ul{
 		list-style:none
 	}
-	faq-list-item {
+	.faq-list-item {
   		 margin:10px;
  		 position:relative;
  		 text-align: left;
 	}
 
-.	faq-list-item h3 {
+.	.faq-list-item h3 {
   		font-size: 7px;
 	
 	}
