@@ -14,7 +14,6 @@
 	/*-top-wrapper-*/
 	#photoshow ul,li{
 		list-style:none;
-		background-size: cover;
    		position: relative;
 		paddeing:10px;
    		width:  90%; /* 画像の横幅に合わせて記述 */
