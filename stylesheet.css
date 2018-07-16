@@ -61,7 +61,7 @@
 
 	my-warapper h1{
 		width:80%;
-		height:20%;
+		top:70;
 		background-image: url(wallpaper-dual-cool-06.jpg);
 		background-size:70%;
 		display:block;
@@ -72,7 +72,8 @@
 	}
 	
 	faq ul{
-		list-style:none;
+		list-style:none
+	}
 	faq-list-item {
   		 margin:10px;
  		 position:relative;
