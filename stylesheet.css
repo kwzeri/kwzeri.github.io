@@ -45,6 +45,7 @@
 	.top-wrapper img{
 		width:100%;
 		text-align:center;
+		top:50px;
 	}
 	#slide{
 		position:relative;
@@ -52,7 +53,7 @@
 	#slide img{
 		position:absolute;
 		left:0;
-		top:50px;
+		
 	}
 	
 	
