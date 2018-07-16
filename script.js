@@ -17,27 +17,20 @@
   
     
     
-    function slideSwitch() {
-   var $active = $('#photoshow img.active');
-
-   if ( $active.length == 0 ) $active = $('#photoshow img:last');
-
-   var $next =  $active.next().length ? $active.next()
-      : $('#photoshow img:first');
-
-   $active.addClass('last-active');
-
-   $next.css({opacity: 0.0})
-      .addClass('active')
-      .animate({opacity: 1.0}, 1000, function() {
-           $active.removeClass('active last-active');
-      });
-}
-
-$(function() {
-   setInterval( "slideSwitch()", 3000 );
-});
     
+    
+    
+    $(function(){
+	$('#photoshow').infiniteslide({
+		'height': 400,			// 高さを指定
+		'speed': 30,			// スピードを指定
+		'direction' : 'left',	// スライドする向きを指定
+		'pauseonhover': false	// マウスオーバーでストップするかを指定
+	});
+ 
+
+
+
     
     
     
