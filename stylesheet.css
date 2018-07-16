@@ -14,20 +14,17 @@
   		z-index: 10;
 	}
 	
-	.header-left{
-  		float: left;
-	}
 
 	
 	.header-left h1{
+		float: left;
 		font-size:30px;
 		color:white;
 	}
-	.header-right {
-		float: right;
-	}
+	
 	
 	.header-right p{
+		float: right;
 		color:white;
   		padding:0 25px;
 		border-radius:5px;
@@ -70,7 +67,7 @@
 	
 	my-wrapper h1{
 		width:80%;
-		top:70;
+		top:70px;
 		background-image: url(wallpaper-dual-cool-06.jpg);
 		background-size:70%;
 		display:block;
