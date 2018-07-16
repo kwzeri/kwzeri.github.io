@@ -26,6 +26,7 @@
 	.header-right p{
 		float: right;
 		color:white;
+		text-align:right;
   		padding:0 25px;
 		border-radius:5px;
 		
@@ -57,17 +58,11 @@
 	
 	
 	/*-my-wrapper-*/
-	my-wrapper{
-		position:relative;
-		
-		
-	}
-	
 	
 	
 	my-wrapper h1{
 		width:80%;
-		top:70px;
+		top:300px;
 		background-image: url();
 		background-size:70%;
 		display:block;
