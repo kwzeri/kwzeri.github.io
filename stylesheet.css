@@ -24,14 +24,14 @@
 		color:white;
 	}
 	.header-right {
-		float:right;
- 		background-color: rgba(255, 255, 255, 0.3);
+		float: right;
 	}
 	
-	.header-right a{
-		display:inline-block;
+	.header-right p{
 		color:white;
   		padding:0 25px;
+		border-radius:5px;
+		
 	}
 	
 	
