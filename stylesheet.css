@@ -51,8 +51,8 @@
 	/*-------*/	
 #photoshow {
    position: relative;
-   width:  80%px; 
-   height: 150px; 
+   width:  80%; 
+   height: 30px; 
 }
 #photoshow img {
    position: absolute;
