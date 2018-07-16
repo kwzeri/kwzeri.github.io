@@ -23,7 +23,7 @@
 	
 	/*-my-wrapper-*/
 
-	.my-wrapper{
+	.my-wrapper h1{
 		width:80%;
 		height:20%;
 		padding:10px 30px 50px 30px;
@@ -32,8 +32,6 @@
 		background-size:70%;
 		margin:15px 15px 15px 15px;
 		display:block;
-	}
-	.my-wrapper h1{
 		font-weight:bold;
 		color:#fff;
 		display:none;
@@ -44,7 +42,6 @@
 		
 	faq-list-item {
   		 margin:1opx;
- 		 border-bottom:1px solid #ccc;
  		 position:relative;
  		 cursor:pointer;
  		 text-align: left;
