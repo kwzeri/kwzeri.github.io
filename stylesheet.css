@@ -58,8 +58,15 @@
 	
 	
 	/*-my-wrapper-*/
-
-	my-warapper h1{
+	my-wrapper{
+		position:relative;
+		
+		
+	}
+	
+	
+	
+	my-wrapper h1{
 		width:80%;
 		top:70;
 		background-image: url(wallpaper-dual-cool-06.jpg);
