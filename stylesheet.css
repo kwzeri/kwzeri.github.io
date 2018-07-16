@@ -6,7 +6,7 @@
 	}
 	/*-header-*/
 	header{
-		height: 65px;
+		height: 50px;
   		width: 100%;
   		background-color: rgba(34, 49, 52, 0.9);
  		position :fixed;
@@ -20,6 +20,7 @@
 
 	
 	.header-left h1{
+		font-size:30px;
 		color:white;
 	}
 	.header-right {
@@ -29,7 +30,6 @@
 	
 	.header-right a{
 		color:white;
-		 display:block;
   		padding:0 25px;
 	}
 	
@@ -45,7 +45,14 @@
 		width:90%;
 		text-align:center;
 	}
-	
+	#slide{
+		position:relative;
+	}
+	#slide img{
+		position:absolute;
+		left:0;
+		top:50px;
+	}
 	
 	
 	
