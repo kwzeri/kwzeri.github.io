@@ -12,26 +12,14 @@
 	
 	
 	/*-top-wrapper-*/
-	#photoshow {
+	#photoshow ul,li{
+		list-style:none;
 		background-size: cover;
    		position: relative;
+		paddeing:10px;
    		width:  90%; /* 画像の横幅に合わせて記述 */
  		height: 20%; /* 画像の高さに合わせて記述 */
 	}
-	#photoshow img {
-   		position: absolute;
-  		top: 0;
-   		left:0;
-   		z-index: 8;
-   		opacity: 0.0;
-	}
-	#photoshow img.active {
-   		z-index: 10;
-   		opacity: 1.0;
-		}
-	#photoshow img.last-active {
-  		 z-index: 9;
-		}
 	
 	
 	
