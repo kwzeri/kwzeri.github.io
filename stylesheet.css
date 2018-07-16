@@ -12,11 +12,9 @@
 	
 	
 	/*-top-wrapper-*/
-	#photoshow ul,li{
-		list-style:none;
-		paddeing:10px;
-   		width:  90%; /* 画像の横幅に合わせて記述 */
- 		height: 20%; /* 画像の高さに合わせて記述 */
+	.top-wrapper{
+		width:80%;
+		height:20%;
 	}
 	
 	
