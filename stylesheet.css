@@ -40,7 +40,8 @@
 	
 	/*-top-wrapper-*/
 	.top-wrapper img{
-		width:70%;
+		width:90%;
+		text-align:center;
 	}
 	
 	
@@ -49,7 +50,7 @@
 	
 	/*-my-wrapper-*/
 
-	h1{
+	my-warapper h1{
 		width:80%;
 		height:20%;
 		background-image: url(wallpaper-dual-cool-06.jpg);
