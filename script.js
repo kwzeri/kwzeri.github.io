@@ -1,19 +1,7 @@
 
 $(function(){
 
-  // SNSボタン
-  $('.social-icon').hover(
-    function(){
-      $(this).children('span').animate({
-        'font-size':'30px'
-      }, 300);
-    },
-    function(){
-      $(this).children('span').animate({
-        'font-size':'24px'
-      }, 300);
-    }
-  );
+ 
   
   // トップへ戻るボタン
   $('#top-btn').click(function(){
@@ -30,5 +18,28 @@ $(function(){
       'scrollTop': position 
     }, 500);
   });
+  
+  
+  
+        
+  $('h1').fadeIn(3600);
+
+    $('.faq-list-item').click(function() {
+    var $answer = $(this).find('.answer');
+    if($answer.hasClass('open')) {
+      $answer.removeClass('open');
+      // slideUpメソッドを用いて、$answerを隠してください
+      $answer.fadeIn(500);
+      
+    } else {
+      $answer.addClass('open'); 
+      // slideDownメソッドを用いて、$answerを表示してください
+      $answer.fadeOut(100);
+    }
+  });
+  
+  
+  
+  
   
 });
