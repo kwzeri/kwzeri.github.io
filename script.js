@@ -3,7 +3,7 @@ $(function(){
 
  
   
-  $('h1').fadeIn(800);
+  $('h2').fadeIn(800);
  
  
 
