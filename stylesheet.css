@@ -46,7 +46,8 @@ h4{
 
 h3 {
 	color: #444;
-	fort-size: 70px;
+	fort-size: 150px;
+	text-align:center;
 }
 
 .container {
@@ -218,6 +219,7 @@ header {
 
 p{
 	text-align:center;
+	font-size:70px;
 
 
 
