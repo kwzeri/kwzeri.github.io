@@ -40,17 +40,13 @@ h2, h3, h4, h5, h6 {
 
 h4, h5 {
   color: #444;
-  font-size: 18px;
+  font-size: 30%;
 }
 
-h3:before, h3:after{
-  content: "";
-  background-color: #616161;
-  display: inline-block;
-  width: 120px;
-  height: 1px;
-  margin: 0 6rem;
-  vertical-align: middle;
+
+h3 {
+	color: #444;
+	fort-size: 50%;
 }
 
 .container {
