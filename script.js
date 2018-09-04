@@ -3,8 +3,8 @@ $(function(){
 
  
   
-  $('h2').fadeIn(800);
- 
+  $('.top-description').fadeIn(1200);
+
  
 
   $('#top-btn').click(function(){
